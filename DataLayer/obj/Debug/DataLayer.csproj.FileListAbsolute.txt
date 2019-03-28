@@ -1,0 +1,7 @@
+D:\Zaawansowane projekty\Aquapark-master\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Zaawansowane projekty\Aquapark-master\DataLayer\bin\Debug\DataLayer.dll
+D:\Zaawansowane projekty\Aquapark-master\DataLayer\bin\Debug\DataLayer.pdb
+D:\Zaawansowane projekty\Aquapark-master\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+D:\Zaawansowane projekty\Aquapark-master\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\Zaawansowane projekty\Aquapark-master\DataLayer\obj\Debug\DataLayer.dll
+D:\Zaawansowane projekty\Aquapark-master\DataLayer\obj\Debug\DataLayer.pdb
