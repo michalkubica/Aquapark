@@ -1,0 +1,6 @@
+D:\Zaawansowane projekty\Aquapark-master\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Zaawansowane projekty\Aquapark-master\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Zaawansowane projekty\Aquapark-master\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+D:\Zaawansowane projekty\Aquapark-master\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Zaawansowane projekty\Aquapark-master\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Zaawansowane projekty\Aquapark-master\EntityLayer\obj\Debug\EntityLayer.pdb
